@@ -7,6 +7,8 @@ public class Library {
 	}
     public static boolean someLibraryMethod() {
     	System.out.println("priya");
+    	System.out.println("shukla");
+    	
         return true;
     }
 }
